@@ -66,3 +66,7 @@ h2 {
   text-align: center;
   color: orange;
 }
+
+.topnav a {
+  color: orange;
+}
